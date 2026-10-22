@@ -1,0 +1,12 @@
+sounddevice>=0.4.6
+numpy>=1.26
+pynput>=1.7.6
+pyttsx3>=2.90
+faster-whisper>=1.0.0
+laya>=0.1.0
+pyautogui>=0.9.54
+psutil
+pyperclip
+requests
+uiautomation; sys_platform == "win32"
+websocket-client
